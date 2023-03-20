@@ -4,6 +4,7 @@
 - **Typ dokumentace:** Koncept / Návod na použití (modul)
 - **Struktura:** jednotlivé metody, jejich možné použití, podmínky použití
 
+* "Často používané ikony v textu" (jejich význam...)
 * Obsah (jaké metody tu vlastně jsou)
 * Metoda 1
   - koncepce

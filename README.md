@@ -4,15 +4,17 @@
 - **Typ dokumentace:** Koncept / Návod na použití (modul)
 - **Struktura:** jednotlivé metody, jejich možné použití, podmínky použití
 
-- Předmluva
-- Metoda 1
- - koncepce
- - vyuziti
- - podmínky použití
- - prakticky priklad
-- Metoda 2
- - koncepce
- - vyuziti
- - podmínky použití
- - prakticky priklad
-- Reference
+* Obsah (jaké metody tu vlastně jsou)
+* Metoda 1
+  - koncepce
+  - využití
+  - podmínky použití
+  - praktický příklad (návod - postup)
+  - alternativy
+* Metoda 2
+  - koncepce
+  - využití
+  - podmínky použití
+  - praktický příklad  (návod - postup)
+  - alternativy
+* Reference

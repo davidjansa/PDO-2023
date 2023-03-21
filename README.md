@@ -5,7 +5,9 @@
 - **Struktura:** jednotlivé metody, jejich možné použití, podmínky použití
 
 * Struktura dokumentace (kapitoly, ikony...)
-* Příklady použití - na co využívají metody
+* Příklady použití
+  - Detekce anomálií (mzscore, iqr)
+  - ...
 * Metoda 1
   - koncepce
   - využití

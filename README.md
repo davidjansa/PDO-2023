@@ -5,6 +5,7 @@
 - **Struktura:** jednotlivé metody, jejich možné použití, podmínky použití
 
 * Struktura dokumentace (kapitoly, ikony...)
+* Příklady použití - na co využívají metody
 * Metoda 1
   - koncepce
   - využití

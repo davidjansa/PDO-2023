@@ -6,8 +6,8 @@
 
 * Struktura dokumentace (kapitoly, ikony...)
 * Příklady použití
-  - Detekce anomálií (mzscore, iqr)
-  - ...
+  - Detekce anomálií (metoda1)
+  - Predikce hodnot (metoda1, metoda2)
 * Metoda 1
   - koncepce
   - využití

@@ -6,8 +6,8 @@
 
 * Struktura dokumentace (kapitoly, ikony...)
 * Příklady použití
-  - Detekce anomálií (metoda1)
-  - Predikce hodnot (metoda1, metoda2)
+  - Detekce anomálií (metoda1, metoda2)
+  - Vyhledávání vzorců (metoda3, metoda4)
 * Metoda 1
   - koncepce
   - využití
@@ -20,4 +20,5 @@
   - podmínky použití
   - praktický příklad  (návod - postup)
   - alternativy
+* ...
 * Reference

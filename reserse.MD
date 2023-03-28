@@ -1,0 +1,5 @@
+| **APP**                        | **Cena**                        | **Databáze potravin** | **Sledování půstu** | **Recepty** | **Sociální funkce** | **Integrace s fitness apps** | **Počet stažení** |
+|--------------------------------|---------------------------------|-----------------------|---------------------|-------------|---------------------|------------------------------|-------------------|
+| YAZIO Fasting & Food Tracker   | 1,5 $ / měsíc 200 $ / doživotní | ANO                   | ANO                 | ANO         | ANO                 | ANO                          | 10M+              |
+| MyFitnessPal: Calorie Counter  | 4,1 $ / měsíc                   | ANO                   | NE                  | ANO         | ANO                 | ANO                          | 100M+             |
+| Lifesum: Healthy Eating & Diet | 3,75 $ / měsíc                  | ANO                   | NE                  | ANO*        | NE                  | ANO*                         | 10M+              |

@@ -43,15 +43,15 @@ _obrázek příkladu kapitoly (metody) s vyznačenými sekcemi_
 
 ## Reference použití metod
 
-- Detekce anomálií
+- **Detekce anomálií**
     - Metoda použití mezikvartilového rozptylu
     - Metoda použití z-skóre
     - Symbolic aggregate approximation
-- Předzpracování dat
+- **Předzpracování dat**
     - Symbolic aggregate approximation
     - Dynamic time warping
     - Klouzavý průměr
-- Shlukování dat
+- **Shlukování dat**
     - K-means clustering
     - Dynamic time warping
     - Symbolic aggregate approximation

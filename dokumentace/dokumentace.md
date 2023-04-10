@@ -1,38 +1,41 @@
-# Technická dokumentace vybraných metod pro analýzu časových řad v energy managementu
+# Technická dokumentace vybraných metod pro analýzu časových řad
 
-Tento dokument obsahuje technickou dokumentaci vybraných metod pro analýzu časových řad se zaměřením na energy management.
+Tento dokument obsahuje technickou dokumentaci vybraných metod pro analýzu časových řad.
 
 ## Struktura dokumentu
 
 Metody analýzy jsou rozděleny do samostatných kapitol, kde každá kapitola obsahuje dané sekce:
 
-- Vedlejší názvy
+- **Vedlejší názvy**
     - Sekce obsahuje seznam názvů, označení a zkratek metody.
-- Možné použití
-    - Sekce obsahuje informační ikony, popisující možné využití metody.
-- Koncept
+- **Možné použití**
+    - Sekce obsahuje primární (viz [Informační ikony](#informační-ikony)) informační ikony, popisující možné využití metody.
+- **Koncept**
     - Sekce obsahuje podrobný popis metody - na jakém principu metoda funguje. Součástí této sekce jsou také vzorce pro výpočet metody či doplňujících funkcí.
-- Parametry
+- **Parametry**
     - Sekce obsahuje podrobný popis parametrů metody. 
-- Podmínky použití
+- **Podmínky použití**
     - Sekce obsahuje popis charakteristiky, kterou musí zpracovávaná data splňovat, aby bylo použití metody co nejfektivnější.
-- Použití -> příklad
+- **Použití**
     - Pro každé 'možné použití' je připraven názorný příklad výpočtu a interpretace výsledků. 
     - Obsahuje následující sekce:
         - Podmínky použití
             - Sekce obsahuje popis charakteristiky, kterou musí zpracovávaná data splňovat.
-        - 
+        - ...
+        - ...
+
+_obrázek příkladu kapitoly (metody) s vyznačenými sekcemi_
 
 ### Informační ikony
 
-- Primární ikony
+- **Primární ikony**
     - Primární ikony označují význam použití metody. Primární ikony jsou barevně rozlišené pro rychlou orientaci v textu.
     - Seznam:
         - :small_red_triangle: označuje metodu pro detekci anomálií v datech
-        - :large_blue_circle: označuje metodu pro shlukování dat
-        - :large_orange_diamond: označuje metodu pro předzpracování dat
+        - :large_blue_circle: označuje metodu pro předzpracování dat
+        - :large_orange_diamond: označuje metodu pro shlukování dat
 
-- Sekundární ikony
+- **Sekundární ikony**
     - Sekundární ikony označují doplňující informace (varování, tip). Sekundarní ikony nejsou barevně rozlišené
     - Seznam:
         - :grey_exclamation: označuje varování

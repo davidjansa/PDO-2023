@@ -2,7 +2,7 @@
 
 Tento dokument obsahuje technickou dokumentaci vybraných metod pro analýzu časových řad.
 
-## Struktura dokumentu
+## Co se zde dočtu
 
 Metody analýzy jsou rozděleny do samostatných kapitol, kde každá kapitola obsahuje dané sekce:
 
@@ -28,14 +28,14 @@ _obrázek příkladu kapitoly (metody) s vyznačenými sekcemi_
 
 ### Informační ikony
 
-- **Primární ikony**
+- **Typ metody**
     - Primární ikony označují význam použití metody. Primární ikony jsou barevně rozlišené pro rychlou orientaci v textu.
     - Seznam:
         - :small_red_triangle: označuje metodu pro detekci anomálií v datech
         - :large_blue_circle: označuje metodu pro předzpracování dat
         - :large_orange_diamond: označuje metodu pro shlukování dat
 
-- **Sekundární ikony**
+- **Doplňující informace**
     - Sekundární ikony označují doplňující informace (varování, tip). Sekundarní ikony nejsou barevně rozlišené
     - Seznam:
         - :grey_exclamation: označuje varování
